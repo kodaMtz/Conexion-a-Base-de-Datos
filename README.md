@@ -1,2 +1,15 @@
-# Conexion-a-Base-de-Datos
-Conexion a base de datos por medio de intellij IDEA, utilizando postgres para representacion de datos por medio del navegador con conexion a localhost:3000
+# itvo.dev
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.2.9. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
